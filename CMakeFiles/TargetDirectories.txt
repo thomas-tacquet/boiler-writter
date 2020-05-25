@@ -1,0 +1,5 @@
+/home/dev/go/src/github.com/thomas-tacquet/boiler-writter/CMakeFiles/rebuild_cache.dir
+/home/dev/go/src/github.com/thomas-tacquet/boiler-writter/CMakeFiles/edit_cache.dir
+/home/dev/go/src/github.com/thomas-tacquet/boiler-writter/boiler-writter/CMakeFiles/rebuild_cache.dir
+/home/dev/go/src/github.com/thomas-tacquet/boiler-writter/boiler-writter/CMakeFiles/boiler-writter.dir
+/home/dev/go/src/github.com/thomas-tacquet/boiler-writter/boiler-writter/CMakeFiles/edit_cache.dir
